@@ -2502,3 +2502,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md#contributing-to-yt-dlp) for instructions o
 
 # WIKI
 See the [Wiki](https://github.com/yt-dlp/yt-dlp/wiki) for more information
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: The Unlicense (mantida sem alterações).
+
+**Fonte original:** https://github.com/yt-dlp/yt-dlp
